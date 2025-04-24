@@ -3,6 +3,7 @@ manufacturer: Mellanox
 model: SN2100
 u_height: 1
 is_full_depth: true
+comments: "[SN2100B](https://network.nvidia.com/files/doc-2020/pb-sn2100.pdf). Add subinterface for breakout cables."
 console-ports:
   - name: con0
     type: rj-45
